@@ -21,6 +21,6 @@
 <br>
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeokiii&layout=compact)](https://github.com/hyeokiii/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyeokiii&layout=compact)
 
 </div>
